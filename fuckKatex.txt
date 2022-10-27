@@ -1,0 +1,17 @@
+Hvofor i satan fungerere ikke denne?
+\begin{table}
+\begin{tabular}{|l|l|}
+\hline
+Festepunkt & y {[}m{]} \\ \hline
+1          & 0,293     \\ \hline
+2          & 0,249     \\ \hline
+3          & 0,189     \\ \hline
+4          & 0,222     \\ \hline
+5          & 0,197     \\ \hline
+6          & 0,159     \\ \hline
+7          & 0,153     \\ \hline
+8          & 0,136     \\ \hline
+\end{tabular}
+\end{table}
+
+
