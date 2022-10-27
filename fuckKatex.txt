@@ -1,4 +1,5 @@
 Hvofor i satan fungerere ikke denne?
+Jeg tror du må suge en hestekuk først
 \begin{table}
 \begin{tabular}{|l|l|}
 \hline
